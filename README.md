@@ -1,0 +1,1 @@
+Campus Vibes is a fully responsive and visually engaging website created using only HTML and CSS. The project aims to represent the vibrant atmosphere of college life through a video background, themed image sections, and a clean user interface.
